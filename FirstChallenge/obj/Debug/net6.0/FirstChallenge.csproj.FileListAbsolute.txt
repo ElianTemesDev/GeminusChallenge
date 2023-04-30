@@ -1,0 +1,15 @@
+C:\Users\elian\OneDrive\Escritorio\GeminusChallenge\FirstChallenge\bin\Debug\net6.0\FirstChallenge.exe
+C:\Users\elian\OneDrive\Escritorio\GeminusChallenge\FirstChallenge\bin\Debug\net6.0\FirstChallenge.deps.json
+C:\Users\elian\OneDrive\Escritorio\GeminusChallenge\FirstChallenge\bin\Debug\net6.0\FirstChallenge.runtimeconfig.json
+C:\Users\elian\OneDrive\Escritorio\GeminusChallenge\FirstChallenge\bin\Debug\net6.0\FirstChallenge.dll
+C:\Users\elian\OneDrive\Escritorio\GeminusChallenge\FirstChallenge\bin\Debug\net6.0\FirstChallenge.pdb
+C:\Users\elian\OneDrive\Escritorio\GeminusChallenge\FirstChallenge\obj\Debug\net6.0\FirstChallenge.csproj.AssemblyReference.cache
+C:\Users\elian\OneDrive\Escritorio\GeminusChallenge\FirstChallenge\obj\Debug\net6.0\FirstChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\OneDrive\Escritorio\GeminusChallenge\FirstChallenge\obj\Debug\net6.0\FirstChallenge.AssemblyInfoInputs.cache
+C:\Users\elian\OneDrive\Escritorio\GeminusChallenge\FirstChallenge\obj\Debug\net6.0\FirstChallenge.AssemblyInfo.cs
+C:\Users\elian\OneDrive\Escritorio\GeminusChallenge\FirstChallenge\obj\Debug\net6.0\FirstChallenge.csproj.CoreCompileInputs.cache
+C:\Users\elian\OneDrive\Escritorio\GeminusChallenge\FirstChallenge\obj\Debug\net6.0\FirstChallenge.dll
+C:\Users\elian\OneDrive\Escritorio\GeminusChallenge\FirstChallenge\obj\Debug\net6.0\refint\FirstChallenge.dll
+C:\Users\elian\OneDrive\Escritorio\GeminusChallenge\FirstChallenge\obj\Debug\net6.0\FirstChallenge.pdb
+C:\Users\elian\OneDrive\Escritorio\GeminusChallenge\FirstChallenge\obj\Debug\net6.0\FirstChallenge.genruntimeconfig.cache
+C:\Users\elian\OneDrive\Escritorio\GeminusChallenge\FirstChallenge\obj\Debug\net6.0\ref\FirstChallenge.dll

@@ -1,6 +1,6 @@
 ﻿namespace SecondChallenge
 {
-    internal class Program
+    internal class CartesianTraveler
     {
         static void Main(string[] args)
         {
