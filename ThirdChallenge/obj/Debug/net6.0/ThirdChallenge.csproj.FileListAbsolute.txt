@@ -1,0 +1,15 @@
+C:\Users\elian\OneDrive\Escritorio\GeminusChallenge\ThirdChallenge\bin\Debug\net6.0\ThirdChallenge.exe
+C:\Users\elian\OneDrive\Escritorio\GeminusChallenge\ThirdChallenge\bin\Debug\net6.0\ThirdChallenge.deps.json
+C:\Users\elian\OneDrive\Escritorio\GeminusChallenge\ThirdChallenge\bin\Debug\net6.0\ThirdChallenge.runtimeconfig.json
+C:\Users\elian\OneDrive\Escritorio\GeminusChallenge\ThirdChallenge\bin\Debug\net6.0\ThirdChallenge.dll
+C:\Users\elian\OneDrive\Escritorio\GeminusChallenge\ThirdChallenge\bin\Debug\net6.0\ThirdChallenge.pdb
+C:\Users\elian\OneDrive\Escritorio\GeminusChallenge\ThirdChallenge\obj\Debug\net6.0\ThirdChallenge.csproj.AssemblyReference.cache
+C:\Users\elian\OneDrive\Escritorio\GeminusChallenge\ThirdChallenge\obj\Debug\net6.0\ThirdChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\OneDrive\Escritorio\GeminusChallenge\ThirdChallenge\obj\Debug\net6.0\ThirdChallenge.AssemblyInfoInputs.cache
+C:\Users\elian\OneDrive\Escritorio\GeminusChallenge\ThirdChallenge\obj\Debug\net6.0\ThirdChallenge.AssemblyInfo.cs
+C:\Users\elian\OneDrive\Escritorio\GeminusChallenge\ThirdChallenge\obj\Debug\net6.0\ThirdChallenge.csproj.CoreCompileInputs.cache
+C:\Users\elian\OneDrive\Escritorio\GeminusChallenge\ThirdChallenge\obj\Debug\net6.0\ThirdChallenge.dll
+C:\Users\elian\OneDrive\Escritorio\GeminusChallenge\ThirdChallenge\obj\Debug\net6.0\refint\ThirdChallenge.dll
+C:\Users\elian\OneDrive\Escritorio\GeminusChallenge\ThirdChallenge\obj\Debug\net6.0\ThirdChallenge.pdb
+C:\Users\elian\OneDrive\Escritorio\GeminusChallenge\ThirdChallenge\obj\Debug\net6.0\ThirdChallenge.genruntimeconfig.cache
+C:\Users\elian\OneDrive\Escritorio\GeminusChallenge\ThirdChallenge\obj\Debug\net6.0\ref\ThirdChallenge.dll
